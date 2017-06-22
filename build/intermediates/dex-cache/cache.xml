@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioWorkSpace\SlidingMenu\nicevideoplayer\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08c1e2bf1dca2db0e9e363861bba685d588e6e20">
+        <dex dex="E:\AndroidStudioWorkSpace\SlidingMenu\app\build\intermediates\pre-dexed\debug\classes_307ff944b0ac08392622db1e53e008c68cd0580d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioWorkSpace\SlidingMenu\SwipeBacklibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e65331b40c81c8cdf79196bd3d307949f082cd81">
+        <dex dex="E:\AndroidStudioWorkSpace\SlidingMenu\app\build\intermediates\pre-dexed\debug\classes_f828832e68f8f6b63ad1deff487abb07b6f81b6e.jar" />
+    </item>
+
+</items>

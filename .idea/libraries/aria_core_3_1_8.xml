@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="aria-core-3.1.8">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/186e10abda964315b114e2d5155e734f8c37ff41/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/186e10abda964315b114e2d5155e734f8c37ff41/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.arialyy.aria/aria-core/3.1.8/ffca4426dd762a715668b977b7cd13ccb9ab1c1b/aria-core-3.1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
